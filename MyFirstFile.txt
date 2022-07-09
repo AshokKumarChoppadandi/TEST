@@ -1,2 +1,2 @@
 This is my first file  in my github repository.
-This is my second setence in my github repository.
+This is my second setence in my Git Hub repository.
